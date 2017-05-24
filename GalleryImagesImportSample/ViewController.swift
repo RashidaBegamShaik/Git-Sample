@@ -49,6 +49,7 @@ class ViewController: UIViewController,UICollectionViewDataSource,UICollectionVi
                 print("thumb nail image is \(thumbnailImage)")
                 print(info)
                 
+                print(obj)
                 
                 
             })
