@@ -46,8 +46,8 @@ class ViewController: UIViewController,UICollectionViewDataSource,UICollectionVi
             
             manager.requestImage(for: obj as! PHAsset, targetSize: CGSize.init(width: 100, height: 100), contentMode: .aspectFit, options: option, resultHandler: { (thumbnailImage, info) in
                 
-                print(info)
                 print("thumb nail image is \(thumbnailImage)")
+                print(info)
                 
                 
                 
