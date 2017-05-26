@@ -50,7 +50,7 @@ class ViewController: UIViewController,UICollectionViewDataSource,UICollectionVi
                 print(info)
                 print(info)
 
-                
+                print("Added Rashida Branch")
                 
             })
             
